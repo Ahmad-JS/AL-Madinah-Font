@@ -1,18 +1,23 @@
-/*   */
+/*  
+AL-Madinah Fonts
+خط المدينة المنورة
+
+
+ */
 
 @font-face {
   font-family:Almadinah1 Light;
-  src: url(Almadinah1.otf);
+  src: url(https://github.com/Ahmad-JS/AL-Madinah-Font/raw/main/Almadinah1-Light.otf);
 }
 
 @font-face {
   font-family:Almadinah2 Regular;
-  src: url(Almadinah2.otf);
+  src: url(https://github.com/Ahmad-JS/AL-Madinah-Font/raw/main/Almadinah2-Regular.otf);
 }
 
 @font-face {
   font-family:Almadinah3 Bold;
-  src: url(Almadinah3.otf);
+  src: url(https://github.com/Ahmad-JS/AL-Madinah-Font/raw/main/Almadinah3-Bold.otf);
 }
 
    
