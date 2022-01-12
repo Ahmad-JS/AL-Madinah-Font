@@ -3,6 +3,7 @@
 ###
 
 خط طباعي عصري يمثل هوية بصرية متفردة للمدينة المنورة.
+
 من الخط المدنى الى الخط الحجازى الى خط المدينة .
 
 ###
@@ -15,7 +16,8 @@ https://github.com/Ahmad-JS/AL-Madinah-Font
 ###
 
 رابط صفحة المعاينة
-page : https://ahmad-js.github.io/AL-Madinah-Font/
+page :
+https://ahmad-js.github.io/AL-Madinah-Font/
 
 ###
 
