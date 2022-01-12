@@ -1,7 +1,7 @@
 /*  css */
   * {
-      font-family: 'Almadinah3 Bold', sans-serif;
-  }
+        font-family: 'Almadinah3 Bold', sans-serif;
+    }
 html{
 	box-sizing:border-box
 }
@@ -9,14 +9,16 @@ html{
 	box-sizing:inherit
 }
 
+.cursor-D {
+	cursor: default;
+}
+
 h2,h3,h4,h5,h6{
 	font-family: 'Almadinah3 Bold', sans-serif;
-	font-weight:600;
 	margin:10px 0
 }
 h1{
-	font-family: 'Almadinah3 Bold', sans-serif;
-	font-weight:400;
+	font-family: 'Almadinah3 Bold';
 	margin:10px 0
 }
 
@@ -28,8 +30,46 @@ h1{
 	font-family: 'Almadinah3 Bold', sans-serif;
 	font-size:40px;
 }
+
+.font-weight-1{
+	font-weight:100;
+	font-style:normal
+	
+}
+.font-weight-2{
+	font-weight:200;
+	
+}
+.font-weight-3{
+	font-weight:300;
+	
+}
+.font-weight-5{
+	font-weight:500;
+	
+}
+.font-weight-6{
+	font-weight:600;
+	
+}
+.font-weight-7{
+	font-weight:700;
+	
+}
+.font-weight-8{
+	font-weight:800;
+	
+}
 .text-shadow {
 	text-shadow: 2px 2px 4px #000000;
+}
+.text-shadow-1{
+	text-shadow: 1px 1px 2px #c0bcbc;
+	
+}
+.text-shadow-2{
+	text-shadow: 1px 1px 2px #000000;
+	
 }
 html,body{
 	font-family: 'Almadinah2 Regular', sans-serif;
@@ -44,7 +84,6 @@ html{
 body{
 	margin:0
 }
-
 article,aside,details,figcaption,figure,
 footer,header,main,menu,nav,section{
 	display:block
@@ -824,7 +863,6 @@ a{
 .h1-2{
 	font-size:20px;
 }
-
 }
 .top,.bottom{
 	position:fixed;
@@ -1564,7 +1602,7 @@ a{
 	color:#009688!important
 }
 .text-teal-2,.hover-text-teal-2:hover{
-	color:#007668!important
+	color:#02685e!important
 }
 
 
