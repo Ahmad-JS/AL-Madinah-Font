@@ -10,20 +10,17 @@
 
 ###
 
-رابط المشروع :
+رابط المشروع :   
 https://github.com/Ahmad-JS/AL-Madinah-Font
 
 ###
 
-رابط صفحة المعاينة
-page :
-###
+رابط صفحة المعاينة  :    
 https://ahmad-js.github.io/AL-Madinah-Font/
 
 ###
 
-
-احمد اللقماني الحربي
+احمد اللقماني الحربي  :    
 https://github.com/Ahmad-JS
 
 ###
