@@ -7,17 +7,17 @@ AL-Madinah Fonts
 
 @font-face {
   font-family:Almadinah1 Light;
-  src: url(./Almadinah1-Light.ttf);
+  src: url(./fonts/Almadinah1-Light.ttf);
 }
 
 @font-face {
   font-family:Almadinah2 Regular;
-  src: url(./Almadinah2-Regular.ttf);
+  src: url(./fonts/Almadinah2-Regular.ttf);
 }
 
 @font-face {
   font-family:Almadinah3 Bold;
-  src: url(./Almadinah3-Bold.ttf);
+  src: url(./fonts/Almadinah3-Bold.ttf);
 }
   
    
