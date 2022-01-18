@@ -1,6 +1,6 @@
 /*  css */
   * {
-        font-family: 'Almadinah3 Bold', sans-serif;
+        font-family:'Almadinah1 Light', sans-serif;
     }
 html{
 	box-sizing:border-box
@@ -12,14 +12,25 @@ html{
 .cursor-D {
 	cursor: default;
 }
+.cursor-p {
+	cursor:pointer;
+}
 
-h2,h3,h4,h5,h6{
+ .width-1{
+    display: block !important;
+ 	width:100px;
+ }
+h2,h3,h4,h6,b{
 	font-family: 'Almadinah3 Bold', sans-serif;
-	margin:10px 0
+	margin:10px 0;
+}
+h5 {
+	font-family: 'Almadinah2 Regular', sans-serif;
+	margin:10px 0;
 }
 h1{
 	font-family: 'Almadinah3 Bold';
-	margin:10px 0
+	margin:10px 0;
 }
 
 .h1-1{
@@ -68,14 +79,14 @@ h1{
 	
 }
 .text-shadow-2{
-	text-shadow: 1px 1px 2px #000000;
+	text-shadow: 1px 1px 1px #000000;
 	
 }
-html,body{
+/*html,body{
 	font-family: 'Almadinah2 Regular', sans-serif;
 	font-size:20px;
 	font-weight:400;
-}
+}*/
 /*   */
 html{
 	-ms-text-size-adjust:100%;
@@ -86,6 +97,9 @@ body{
 }
 article,aside,details,figcaption,figure,
 footer,header,main,menu,nav,section{
+	display:block
+}
+navbar{
 	display:block
 }
 summary{
@@ -161,7 +175,7 @@ code,kbd,pre,samp{
 hr{
 	box-sizing:content-box;
 	height:0;
-	overflow:visible
+	overflow:visibleP
 }
 
 button,input,select,textarea,optgroup{
@@ -549,7 +563,7 @@ a{
 }
 
 .bar-block .bar-item{
-	width:100%;
+	width:20%;
 	display:block;
 	padding:8px 16px;
 	text-align:left;
@@ -1293,6 +1307,23 @@ a{
 	margin-right:16px!important
 }
 
+.margin-1{
+	margin:8px!important
+}
+.margin-top-1{
+	margin-top:8px!important
+}
+.margin-bottom-1{
+	margin-bottom:8px!important
+}
+
+.margin-left-8{
+	margin-left:8px!important
+}
+.margin-right-8{
+	margin-right:8px!important
+}
+
 .padding-small{
 	padding:4px 8px!important
 }
@@ -1305,6 +1336,10 @@ a{
 
 .padding-0{
 	padding:0px!important;
+}
+.padding-8{
+	padding-top:8px!important;
+	padding-bottom:8px!important
 }
 .padding-16{
 	padding-top:16px!important;
