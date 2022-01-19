@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*  
 AL-Madinah Fonts
 خط المدينة المنورة
@@ -21,27 +20,3 @@ AL-Madinah Fonts
 }
   
    
-=======
-/*  
-AL-Madinah Fonts
-خط المدينة المنورة
-
- */
-
-@font-face {
-  font-family:Almadinah1 Light;
-  src: url(./fonts/Almadinah1-Light.ttf);
-}
-
-@font-face {
-  font-family:Almadinah2 Regular;
-  src: url(./fonts/Almadinah2-Regular.ttf);
-}
-
-@font-face {
-  font-family:Almadinah3 Bold;
-  src: url(./fonts/Almadinah3-Bold.ttf);
-}
-  
-   
->>>>>>> 360507f69842b9a307990262ea366f42a904a140
