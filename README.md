@@ -1,13 +1,10 @@
 # AL-Madinah-Font
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=33&color=41DCDC&lines=AL+Madinah+Font;%D8%AE%D8%B7+%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9">
-</p>
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=35&color=41DCDC&height=60&lines=%D8%AE%D8%B7+%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9;AL+Madinah+Font">
+<img src="https://readme-typing-svg.herokuapp.com?font=Tajawal&size=35&color=41DCDC&center=true&multiline=true&height=118&lines=%D8%AE%D8%B7+%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9+%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9;AL+Madinah+Font">
 </p>
-
 
 
 <!--  <p align="center">
