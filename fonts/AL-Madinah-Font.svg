@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox='0 0 550 150'
+    style='background-color: #FFFFFF00;'
+    width='550px' height='150px'>
+
+    <style>
+        @font-face {
+        font-family:Almadinah3 Bold;
+            font-style: normal;
+            font-weight: 400;
+            src: url(https://github.com/Ahmad-JS/AL-Madinah-Font/blob/main/fonts/Almadinah3-Bold.ttf) format('truetype');
+        }
+            
+	</style>
+
+    <path id='path0'>
+        <animate id='d0' attributeName='d' dur='3000ms' fill="freeze" keyTimes="0;0;1"
+            values='m0,25 h0 ; m0,25 h0 ; m0,25 h550' />
+    </path>
+    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path0'>
+            خط المدينة المنورة
+        </textPath>
+    </text>
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' dur='6000ms' fill="freeze" keyTimes="0;0.5;1"
+            values='m0,50 h0 ; m0,50 h0 ; m0,50 h550' />
+    </path>
+    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path1'>
+            AL Madinah Font
+        </textPath>
+    </text>
+
+    <path id='path2'>
+        <animate id='d2' attributeName='d' dur='9000ms' fill="freeze" keyTimes="0;0.66666666666667;1"
+            values='m0,75 h0 ; m0,75 h0 ; m0,75 h550' />
+    </path>
+    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path2'>
+            من الخط المدنى الى الخط الحجازى الى خط المدينة المنورة 
+        </textPath>
+    </text>
+
+    <path id='path3'>
+        <animate id='d3' attributeName='d' dur='12000ms' fill="freeze" keyTimes="0;0.75;1"
+            values='m0,100 h0 ; m0,100 h0 ; m0,100 h550' />
+    </path>
+    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+        dominant-baseline='auto'
+        x='50%' text-anchor='middle'>
+        <textPath xlink:href='#path3'>
+            خط طباعي عصري يمثل هوية بصرية متفردة للمدينة المنورة
+        </textPath>
+    </text>
+</svg>
