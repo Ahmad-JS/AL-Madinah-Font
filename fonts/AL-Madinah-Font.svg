@@ -17,7 +17,7 @@
         <animate id='d0' attributeName='d' dur='3000ms' fill="freeze" keyTimes="0;0;1"
             values='m0,25 h0 ; m0,25 h0 ; m0,25 h550' />
     </path>
-    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+    <text font-family='Almadinah3' fill='#2B9191' font-size='35'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
@@ -41,7 +41,7 @@
         <animate id='d2' attributeName='d' dur='9000ms' fill="freeze" keyTimes="0;0.66666666666667;1"
             values='m0,75 h0 ; m0,75 h0 ; m0,75 h550' />
     </path>
-    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+    <text font-family='Almadinah3' fill='#2B9191' font-size='25'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
@@ -53,7 +53,7 @@
         <animate id='d3' attributeName='d' dur='12000ms' fill="freeze" keyTimes="0;0.75;1"
             values='m0,100 h0 ; m0,100 h0 ; m0,100 h550' />
     </path>
-    <text font-family='Almadinah3' fill='#2B9191' font-size='20'
+    <text font-family='Almadinah3' fill='#2B9191' font-size='25'
         dominant-baseline='auto'
         x='50%' text-anchor='middle'>
         <textPath xlink:href='#path3'>
