@@ -866,7 +866,8 @@ a{
 
 
 footer.container {
-  padding-bottom: 11px;
+       padding-bottom: 10px;
+	margin-top: 10px;
 }
 
 }
@@ -884,7 +885,8 @@ footer.container {
 }
 	
 footer.container {
-  padding-bottom: 11px;
+       padding-bottom: 10px;
+	margin-top: 10px;
 }
 }
 .top,.bottom{
