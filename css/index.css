@@ -864,6 +864,11 @@ a{
 	font-size:25px;
 }
 
+
+footer.container {
+  padding-bottom: 11px;
+}
+
 }
 /*@media (max-width:390px){
 	
@@ -876,6 +881,10 @@ a{
 	
 .h1-2{
 	font-size:20px;
+}
+	
+footer.container {
+  padding-bottom: 11px;
 }
 }
 .top,.bottom{
